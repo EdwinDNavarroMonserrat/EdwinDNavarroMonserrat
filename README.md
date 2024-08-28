@@ -5,7 +5,7 @@ I was born and raised in Puerto Rico. I obtained my B.S. in Cell and Molecular B
 # Interest
 I’m interested in bioinformatics, microbiology, molecular biology, and plant pathology 🌱. I’m looking to continue to expand my skillset in bioinformatics, molecular biology and data analysis.
 
-# For more about my credentials, check the CVs uploaded here.
+# For more about my credentials, check the CV uploaded here.
 
 # 📫 How to reach me:
   LinkedIn: https://www.linkedin.com/in/edwindanielnavarromonserrat/
