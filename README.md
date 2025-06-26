@@ -10,4 +10,4 @@ I’m interested in bioinformatics, microbiology, molecular biology, and plant p
 # 📫 How to reach me:
   LinkedIn: https://www.linkedin.com/in/edwindanielnavarromonserrat/
   Twitter: @EdwinDanielNav
-  email: navarro.83@osu.edu
+  email: navarro.83@osu.edu or enavarromonserrat@gmail.com
