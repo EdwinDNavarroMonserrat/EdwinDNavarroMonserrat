@@ -1,13 +1,48 @@
-## Hi there 👋, I’m Edwin D. Navarro Monserrat
-# Background
-I was born and raised in Puerto Rico. I obtained my B.S. in Cell and Molecular Biology from the University of Puerto Rico, Rio Piedras and a M.S. in Plant Pathology from The Ohio State University. Currently, I'm near the end of my PhD, in Plant Pathology. My research has focused on the used of a collection of biocontrol _Pseudomonas_ for the management of _Pythium_ induced diseases in hydroponically grown leafy greens. In addition to this, a large portion of my efforts have been spent in performing various genome-wide analysis on this collection of _Pseudomonas_. In particular, I have experience performing genome mining, phylogenetic analysis, comparative genomics and pangenome analysis. 
+# 👋 Hi, I’m Edwin D. Navarro Monserrat  
 
-# Interest
-I’m interested in bioinformatics, microbiology, molecular biology, and plant pathology 🌱. I’m looking to continue to expand my skillset in bioinformatics, molecular biology and data analysis.
+## 🌱 Background  
+I’m **Puertorican 🇵🇷** and currently finishing my **PhD in Plant Pathology**.  
 
-# For more about my credentials, check the CV uploaded here.
+My PhD research focuses on using a collection of **biocontrol _Pseudomonas_** to manage **_Pythium_-induced diseases** in hydroponically grown leafy greens. I also perform extensive **genomic analyses** of these isolates, including:  
+- Genome mining  
+- Phylogenetic analysis  
+- Comparative genomics  
+- Pangenome analysis  
 
-# 📫 How to reach me:
-  LinkedIn: https://www.linkedin.com/in/edwindanielnavarromonserrat/
-  Twitter: @EdwinDanielNav
-  email: navarro.83@osu.edu or enavarromonserrat@gmail.com
+Alongside my doctoral work, I’m a **Bioinformatics Specialist** at the **Puerto Rico Public Health Lab**, where I:  
+- Process samples & perform NGS sequencing  
+- Analyze sequencing data for surveillance of **foodborne pathogens** and **SARS-CoV-2**  
+
+---
+
+## 🔬 Interests  
+I’m passionate about **bioinformatics** and everything "micro." My main interests include:  
+- Human & plant pathogens  
+- Probiotic microbes  
+- Genomics & pathogen surveillance  
+
+---
+
+## 🛠️ Skills  
+
+**Bioinformatics**  
+- Linux command line  
+- R (data visualization, report generation, statistical analysis)  
+
+**Some of my Other Technical SKills**  
+- Microorganism handling (oomycetes, bacteria, fungi, viruses)  
+- DNA/RNA NGS sequencing  
+- Hydroponics  
+- Biological control  
+
+---
+
+## 📚 Currently Learning  
+- Nextflow  
+
+---
+
+## 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/edwindanielnavarromonserrat/)  
+- Twitter: [@EdwinDanielNav](https://twitter.com/EdwinDanielNav)  
+- 📧 enavarromonserrat@gmail.com  
