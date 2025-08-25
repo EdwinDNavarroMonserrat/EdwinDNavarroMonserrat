@@ -3,7 +3,7 @@
 ## 🌱 Background  
 I’m **Puertorican 🇵🇷** and currently finishing my **PhD in Plant Pathology**.  
 
-My PhD research focuses on using a collection of **biocontrol _Pseudomonas_** to manage **_Pythium_-induced diseases** in hydroponically grown leafy greens. I also perform extensive **genomic analyses** of these isolates, including:  
+My PhD research focuses on using a collection of **biocontrol _Pseudomonas_** to manage **_Pythium_-induced diseases** in hydroponically grown leafy greens. I also performed extensive **genomic analyses** of these isolates, including:  
 - Genome mining  
 - Phylogenetic analysis  
 - Comparative genomics  
