@@ -11,7 +11,7 @@ My PhD research focuses on using a collection of **biocontrol _Pseudomonas_** to
 
 Alongside my doctoral work, I’m a **Bioinformatics Specialist** at the **Puerto Rico Public Health Lab**, where I:  
 - Process samples & perform NGS sequencing  
-- Analyze sequencing data for surveillance of **foodborne pathogens** and **SARS-CoV-2**  
+- Analyze sequencing data for surveillance of infectious diseases 
 
 ---
 
@@ -29,12 +29,6 @@ I’m passionate about **bioinformatics** and everything "micro." My main intere
 - Linux command line  
 - R (data visualization, report generation, statistical analysis)  
 
-**Some of my Other Technical SKills**  
-- Microorganism handling (oomycetes, bacteria, fungi, viruses)  
-- DNA/RNA NGS sequencing  
-- Hydroponics  
-- Biological control  
-
 ---
 
 ## 📚 Currently Learning  
@@ -44,5 +38,4 @@ I’m passionate about **bioinformatics** and everything "micro." My main intere
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/edwindanielnavarromonserrat/)  
-- Twitter: [@EdwinDanielNav](https://twitter.com/EdwinDanielNav)  
 - 📧 enavarromonserrat@gmail.com  
