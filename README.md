@@ -26,7 +26,8 @@ I’m passionate about **bioinformatics** and everything "micro." My main intere
 ## 🛠️ Skills  
 
 **Bioinformatics**  
-- Linux command line  
+- Linux command line
+- Bash scripting
 - R (data visualization, report generation, statistical analysis)  
 
 ---
