@@ -31,6 +31,8 @@ I’m passionate about **bioinformatics** and everything "micro." My main intere
 - R (data visualization, report generation, statistical analysis)
 - Automated reports with Quarto
 
+**See CV for more details**
+
 ---
 
 ## 📫 Connect with Me  
