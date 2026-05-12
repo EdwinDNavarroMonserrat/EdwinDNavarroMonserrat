@@ -7,7 +7,8 @@ My PhD research focused on a collection of **biocontrol _Pseudomonas_** used to 
 - Genome mining  
 - Phylogenetic analysis  
 - Comparative genomics  
-- Pangenome analysis  
+- Pangenome analysis
+ among other things... 
 
 I’m currently a **Bioinformatics Specialist** at the **Puerto Rico Public Health Lab**, where I:  
 - Process samples & perform NGS sequencing  
@@ -24,13 +25,21 @@ I’m passionate about **bioinformatics** and everything "micro." My main intere
 ---
 
 ## 🛠️ Skills  
+**Wet lab and basic research**
+- PCR, qPCR, RT-PCR
+- NGS library preparation
+- In vitro testing of microorganisms for various phenotypic traits
+
+**Applied research**
+- Experience working with soil-less based (hydroponic) systems
 
 **Bioinformatics and other things Data**  
 - Linux command line
 - Bash scripting
 - R (data visualization, report generation, statistical analysis)
 - Automated reports with Quarto
-
+  
+--- 
 **See CV for more details**
 
 ---
