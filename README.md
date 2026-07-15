@@ -8,11 +8,12 @@ My PhD research focused on a collection of **biocontrol _Pseudomonas_** used to 
 - Phylogenetic analysis  
 - Comparative genomics  
 - Pangenome analysis
- among other things... 
+- among other things... 
 
-I’m currently a **Bioinformatics Specialist** at the **Puerto Rico Public Health Lab**, where I:  
+I’m currently a **Bioinformatics and Genomics Specialist** at the **Puerto Rico Public Health Lab**, where I:  
 - Process samples & perform NGS sequencing  
-- Analyze sequencing data for surveillance of infectious diseases 
+- Analyze sequencing data for surveillance of infectious diseases
+- Generate reports and support data/file sharing infrastructures
 
 ---
 
